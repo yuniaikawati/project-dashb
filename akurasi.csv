@@ -1,0 +1,3 @@
+Algoritma,K-Fold=3,K-Fold=5,K-Fold=10
+Decision Tree,84.70%,84.30%,85.30%
+Gradient Boosted Tree,87.30%,88.90%,89.80%

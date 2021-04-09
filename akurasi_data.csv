@@ -1,0 +1,16 @@
+Fold,Algorithm,Accuracy
+K-Fold=3,Decision Tree,82.1
+K-Fold=3,Gradient Boosted Tree,87.3
+K-Fold=3,Bagging,88.9
+K-Fold=3,XGBoost,91.5
+K-Fold=3,Extra Tree,96.40
+K-Fold=5,Decision Tree,84.2
+K-Fold=5,Gradient Boosted Tree,88.9
+K-Fold=5,Bagging,89.1
+K-Fold=5,XGBoost,93.7
+K-Fold=5,Extra Tree,97
+K-Fold=10,Decision Tree,84.3
+K-Fold=10,Gradient Boosted Tree,89.8
+K-Fold=10,Bagging,90
+K-Fold=10,XGBoost,95.5
+K-Fold=10,Extra Tree,98.4
